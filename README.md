@@ -1,5 +1,5 @@
-# Vector-Database
-*Intro to Vector Database
-#Pineocone
-#Chromdb
+# Vector Database
+
+## Introduction to Vector
+
 Using Langchain acess Pinecone and Chromadb
